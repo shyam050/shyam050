@@ -6,4 +6,3 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: shyamsundar4005@gmail.com
 - 😄 Pronouns: he/him
-- 💼 Portfolio: [shyamsundar.me](https://shyaamsundar.me)
