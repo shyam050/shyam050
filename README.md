@@ -19,10 +19,12 @@ Community Management | Mobile and Web Development | Project Management
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ReactJS 
-- 📫 How to reach me: shyam45 (Twitter, Linkedin, Instagram) 
+- 📫 How to reach me: shyam45 (Twitter, LinkedIn, Instagram) 
 - 😄 Pronouns: - he/him
 
+Outside of work, I'm interested in following the developments of science. I make art and play video games.
 
+### Let's connect!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shyam050)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shyam45/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/shyam77_/)
