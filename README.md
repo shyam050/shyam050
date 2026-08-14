@@ -1,42 +1,9 @@
-### Hi there 👋, Welcome!
-
-Hello!👋🏻 My name is **Shyam Sundar**. I am from Vellore Institute of Technology taking Computer Science and Engineering. 
-
-I have a huge interest in ux and ui design📝 as well coding👩‍💻! Currently studying ⚛️react js, gatsby, graph ql and being a succesful ux and ui designer. 
-
-Currently Microsoft Learn Student Ambassador, Community Manager at SurPath Hub and a Volunteer web designer at UXPH. 
-
-I love to join different community and competition that involve creating something for the society! 🙋  
-
-
-**Skills:**  
-Community Management | Mobile and Web Development | Project Management  
-
-**Tools:**   
-[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://www.linkedin.com/in/nikxherrera/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>](https://twitter.com/nikxherrera)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](nikxherrera.github.io)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>](https://github.com/nikxherrera) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://twitter.com/nikxherrera) 
-
-
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning ReactJS 
-- 📫 How to reach me: shyam45 (Twitter, LinkedIn, Instagram) 
-- 😄 Pronouns: - he/him
-
-Outside of work, I'm interested in following the developments of science. I make art and play video games.
-
-### Let's connect!
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shyam050)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shyam45/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/shyam77_/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/shyam45)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome)](https://shyaamsundar.app)
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shyam+Sundar+R;Full+Stack+Developer;Distributed+Systems+Enthusiast;Seeking+SDE+Roles+2027" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">B.Tech CSE @ VIT Chennai | CGPA: 8.21 | AI & Robotics Specialization</h3>
+<h3 align="center">B.Tech CSE @ VIT Chennai | AI & Robotics Specialization</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shyam45" target="_blank">
@@ -53,7 +20,20 @@ Outside of work, I'm interested in following the developments of science. I make
 
 ---
 
-## 🚀 About Me
+## About Me
+### Hi there 👋, Welcome!
+
+Hello! 👋 I'm **Shyam Sundar**, a third-year **Computer Science and Engineering (AI & ML)** student at **Vellore Institute of Technology (VIT) Chennai**.
+
+I'm passionate about **backend development ☕**, **cloud computing ☁️**, **full-stack web development 🌐**, and **AI & Robotics 🤖**. I enjoy building scalable applications using **Spring Boot**, **Angular**, **AWS**, and **PostgreSQL**, while continuously exploring new technologies and software engineering best practices.
+
+Currently, I'm expanding my knowledge in **Microservices**, **System Design**, **Apache Kafka**, and **Cloud Architecture**, with the goal of becoming a skilled Software Engineer.
+
+I love working on real-world projects, contributing to open-source, participating in hackathons, and collaborating with communities to build technology that creates a positive impact. 🚀
+
+**Skills:**  
+Community Management | Mobile and Web Development | Project Management  
+
 
 - 🔭 **Currently building:** [Scalable Notification Service](https://github.com/shyam050/scalable-notification-service) — Event-driven microservice with **Kafka + Redis + Spring Boot** handling 10K+ events/minute
 - 🌱 **Learning:** Kubernetes, Advanced System Design, Distributed Transaction Patterns
@@ -67,58 +47,51 @@ Outside of work, I'm interested in following the developments of science. I make
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## Languages
 
-### Backend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="40">](https://www.java.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40">](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="40">](https://developer.mozilla.org/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40">](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40">](https://isocpp.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" height="40">](https://en.wikipedia.org/wiki/SQL)
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## Backend & Frameworks
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" height="40">](https://spring.io/projects/spring-boot)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" height="40">](https://flask.palletsprojects.com/)
+[<img src="https://jwt.io/img/pic_logo.svg" alt="JWT" height="40">](https://jwt.io/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" alt="REST API" height="40">](https://restfulapi.net/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/apache-kafka/apache-kafka.png" alt="Kafka" height="40">](https://kafka.apache.org/)
+[<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="40">](https://www.rabbitmq.com/)
 
-### Databases & Caching
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+## Frontend
 
-### Systems & Robotics
-<p align="left">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular" height="40">](https://angular.io/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/electron/electron.png" alt="Electron" height="40">](https://www.electronjs.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" height="40">](https://developer.mozilla.org/docs/Web/HTML)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" height="40">](https://developer.mozilla.org/docs/Web/CSS)
 
+## Cloud & DevOps
+
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" height="40">](https://aws.amazon.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" height="40">](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" height="40">](https://www.kernel.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" height="40">](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" height="40">](https://github.com/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" alt="Prometheus" height="40">](https://prometheus.io/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" alt="Grafana" height="40">](https://grafana.com/)
+
+## Databases
+
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" height="40">](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40">](https://www.postgresql.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" height="40">](https://redis.io/)
+
+## Robotics
+
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/ros/ros.png" alt="ROS" height="40">](https://www.ros.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/gazebo/gazebo.png" alt="Gazebo" height="40">](https://gazebosim.org/)
 ---
 
 ## 📌 Featured Projects
@@ -243,17 +216,12 @@ Microservices       ████████████░░░░░░░░
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/shyam45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shyamsundar4005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shyam050" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shyam050)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shyam45/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/shyam77_/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/shyam45)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome)](https://shyaamsundar.app)
+
 
 <p align="center">
   <em>"Building systems that scale, one commit at a time."</em>
