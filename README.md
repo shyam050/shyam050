@@ -6,18 +6,26 @@
 <h3 align="center">B.Tech CSE @ VIT Chennai | AI & Robotics Specialization</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shyam45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://shyamsundar.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
+  </a>
+  <a href="https://linkedin.com/in/shyam45">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:shyamsundar4005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  <a href="https://leetcode.com/45">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shyam050&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/shyam050">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyam050&label=Profile%20Views&color=58A6FF&style=flat-square" />
+</p>
 
 ### Hi there 👋, Welcome!
 
@@ -230,18 +238,18 @@ I love working on real-world projects, contributing to open-source, participatin
 
 ## GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shyam050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam050&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shyam050&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+</p>-->
 
 
 ## Coding Activity
