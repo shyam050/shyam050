@@ -76,7 +76,7 @@ I love working on real-world projects, contributing to open-source, participatin
 </a>
 
 <a href="https://flask.palletsprojects.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40"/>
 </a>
 
 <a href="https://nodejs.org/">
@@ -91,8 +91,9 @@ I love working on real-world projects, contributing to open-source, participatin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" height="40"/>
 </a>
 
+
 <a href="https://kafka.apache.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" height="40"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" alt="Apache Kafka" height="40"/>
 </a>
 
 <a href="https://www.rabbitmq.com/">
@@ -138,8 +139,8 @@ I love working on real-world projects, contributing to open-source, participatin
 </a>
 
 <a href="https://github.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
-</a>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="40"/>
+</a>  
 
 <a href="https://prometheus.io/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="40"/>
