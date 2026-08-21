@@ -31,46 +31,23 @@ I love working on real-world projects, contributing to open-source, participatin
 - 💬 **Ask me about:** Spring Boot, Angular, AWS Architecture, ROS Navigation, Kafka
 - 📫 **Reach me:** shyamsundar4005@gmail.com
 
+
 ## Tech Stack
 
 ### Languages
-* ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=ED8B00)
-* ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB)
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
-* ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)
-* ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=00599C)
+* ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=ED8B00) &bull; ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB) &bull; ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E) &bull; ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6) &bull; ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=00599C)
 
 ### Backend
-* ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot&logoColor=6DB33F)
-* ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white)
-* ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs&logoColor=5FA04E)
-* ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens&logoColor=white)
-* ![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger&logoColor=85EA2D)
-* ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white)
-* ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=flat&logo=rabbitmq&logoColor=FF6600)
+* ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot&logoColor=6DB33F) &bull; ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) &bull; ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs&logoColor=5FA04E) &bull; ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens&logoColor=white) &bull; ![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger&logoColor=85EA2D) &bull; ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white) &bull; ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=flat&logo=rabbitmq&logoColor=FF6600)
 
 ### Frontend
-* ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=DD0031)
-* ![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron&logoColor=47848F)
-* ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26)
-* ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6)
+* ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=DD0031) &bull; ![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron&logoColor=47848F) &bull; ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26) &bull; ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6)
 
 ### Cloud & DevOps
-* ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws&logoColor=FF9900)
-* ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED)
-* ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)
-* ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
-* ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)
-* ![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus&logoColor=E6522C)
-* ![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana&logoColor=F46800)
+* ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws&logoColor=FF9900) &bull; ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED) &bull; ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624) &bull; ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032) &bull; ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white) &bull; ![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus&logoColor=E6522C) &bull; ![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana&logoColor=F46800)
 
 ### Databases
-* ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1)
-* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1)
-* ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis&logoColor=DC382D)
-* ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248)
-
-
+* ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1) &bull; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1) &bull; ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis&logoColor=DC382D) &bull; ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248)
 ## GitHub Stats
 
 <!--<p align="center">
