@@ -1,30 +1,30 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shyam+Sundar+R;Full+Stack+Developer;Distributed+Systems+Enthusiast;Seeking+SDE+Roles+2027" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shyam+Sundar+R;Full+Stack+Developer;Distributed+Systems+Enthusiast;Seeking+SDE+Roles+2027" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">B.Tech CSE @ VIT Chennai | AI & Robotics Specialization</h3>
 
 <p align="center">
-  <a href="https://shyamsundar.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
-  </a>
-  <a href="https://linkedin.com/in/shyam45">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:shyamsundar4005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://leetcode.com/45">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" />
-  </a>
-  <a href="https://github.com/shyam050">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
-  </a>
+ <a href="https://shyamsundar.app">
+ <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
+ </a>
+ <a href="https://linkedin.com/in/shyam45">
+ <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+ </a>
+ <a href="mailto:shyamsundar4005@gmail.com">
+ <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+ </a>
+ <a href="https://leetcode.com/shyam45">
+ <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" />
+ </a>
+ <a href="https://github.com/shyam050">
+ <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
+ </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyam050&label=Profile%20Views&color=58A6FF&style=flat-square" />
+ <img src="https://komarev.com/ghpvc/?username=shyam050&label=Profile%20Views&color=58A6FF&style=flat-square" />
 </p>
 
 ### Hi there 👋, Welcome!
@@ -43,144 +43,59 @@ I love working on real-world projects, contributing to open-source, participatin
 - 💬 **Ask me about:** Spring Boot, Angular, AWS Architecture, ROS Navigation, Kafka
 - 📫 **Reach me:** shyamsundar4005@gmail.com
 
-
 ## Tech Stack
 
 ### Languages
-
-<a href="https://www.java.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/>
-</a>
-
-<a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
-</a>
-
-<a href="https://isocpp.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
-</a>
+* ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=ED8B00)
+* ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB)
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
+* ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)
+* ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=00599C)
 
 ### Backend
-
-<a href="https://spring.io/projects/spring-boot">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40"/>
-</a>
-
-<a href="https://nodejs.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
-</a>
-
-<a href="https://jwt.io/">
-  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" height="40"/>
-</a>
-
-<a href="https://swagger.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" height="40"/>
-</a>
-
-
-<a href="https://kafka.apache.org/">
-  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" alt="Apache Kafka" height="40"/>
-</a>
-
-<a href="https://www.rabbitmq.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="40"/>
-</a>
-
+* ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot&logoColor=6DB33F)
+* ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white)
+* ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs&logoColor=5FA04E)
+* ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens&logoColor=white)
+* ![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger&logoColor=85EA2D)
+* ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white)
+* ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=flat&logo=rabbitmq&logoColor=FF6600)
 
 ### Frontend
-
-<a href="https://angular.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40"/>
-</a>
-
-<a href="https://www.electronjs.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
-</a>
-
+* ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=DD0031)
+* ![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron&logoColor=47848F)
+* ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26)
+* ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6)
 
 ### Cloud & DevOps
-
-<a href="https://aws.amazon.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/>
-</a>
-
-<a href="https://www.docker.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40"/>
-</a>
-
-<a href="https://www.kernel.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40"/>
-</a>
-
-<a href="https://git-scm.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
-</a>
-
-<a href="https://github.com/">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="40"/>
-</a>  
-
-<a href="https://prometheus.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="40"/>
-</a>
-
-<a href="https://grafana.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40"/>
-</a>
+* ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws&logoColor=FF9900)
+* ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED)
+* ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)
+* ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
+* ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)
+* ![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus&logoColor=E6522C)
+* ![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana&logoColor=F46800)
 
 ### Databases
-
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
-</a>
-
-<a href="https://redis.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40"/>
-</a>
+* ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1)
+* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1)
+* ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis&logoColor=DC382D)
+* ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248)
 
 
 ## GitHub Stats
 
 <!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyam050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+ <img src="https://github-readme-stats.vercel.app/api?username=shyam050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>-->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam050&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam050&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyam050&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=shyam050&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>-->
 
 
@@ -198,21 +113,21 @@ I love working on real-world projects, contributing to open-source, participatin
 ## Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/shyam45" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <!--<img src="https://img.shields.io/badge/Focus-Graphs%20%7C%20DP%20%7C%20Trees-0969DA?style=for-the-badge" />-->
-  <!--<img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-964B00?style=for-the-badge" />-->
+ <a href="https://leetcode.com/shyam45" target="_blank">
+ <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+ </a>
+ <!--<img src="https://img.shields.io/badge/Focus-Graphs%20%7C%20DP%20%7C%20Trees-0969DA?style=for-the-badge" />-->
+ <!--<img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-964B00?style=for-the-badge" />-->
 </p>
 
 
 ## What I'm Currently Learning
 
 ```text
-Kubernetes          ████████░░░░░░░░░░░░   40%
-System Design       ██████████░░░░░░░░░░   50%
-Advanced Kafka      ███████░░░░░░░░░░░░░   35%
-Microservices       ████████████░░░░░░░░   60%
+Kubernetes ████████░░░░░░░░░░░░ 40%
+System Design ██████████░░░░░░░░░░ 50%
+Advanced Kafka ███████░░░░░░░░░░░░░ 35%
+Microservices ████████████░░░░░░░░ 60%
 ```
 
 ## Let's Connect
@@ -224,9 +139,9 @@ Microservices       ████████████░░░░░░░░
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome)](https://shyamsundar.app)
 
 <p align="center">
-  <em>"Building systems that scale, one commit at a time."</em>
+ <em>"Building systems that scale, one commit at a time."</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" />
 </p>
