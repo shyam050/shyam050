@@ -5,23 +5,11 @@
 
 <h3 align="center">B.Tech CSE @ VIT Chennai | AI & Robotics Specialization</h3>
 
-<p align="center">
- <a href="https://shyamsundar.app">
- <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
- </a>
- <a href="https://linkedin.com/in/shyam45">
- <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
- </a>
- <a href="mailto:shyamsundar4005@gmail.com">
- <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
- </a>
- <a href="https://leetcode.com/shyam45">
- <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" />
- </a>
- <a href="https://github.com/shyam050">
- <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
- </a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://shyamsundar.app) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shyam45) &nbsp; [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shyamsundar4005@gmail.com) &nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/shyam45) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/shyam050)
+
+</div>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shyam050&label=Profile%20Views&color=58A6FF&style=flat-square" />
@@ -120,15 +108,6 @@ I love working on real-world projects, contributing to open-source, participatin
  <!--<img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-964B00?style=for-the-badge" />-->
 </p>
 
-
-## What I'm Currently Learning
-
-```text
-Kubernetes ████████░░░░░░░░░░░░ 40%
-System Design ██████████░░░░░░░░░░ 50%
-Advanced Kafka ███████░░░░░░░░░░░░░ 35%
-Microservices ████████████░░░░░░░░ 60%
-```
 
 ## Let's Connect
 
