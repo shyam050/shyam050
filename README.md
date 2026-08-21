@@ -42,7 +42,6 @@ I love working on real-world projects, contributing to open-source, participatin
 - 🎯 **Goal:** Software Development Engineer at a product-first company
 - 💬 **Ask me about:** Spring Boot, Angular, AWS Architecture, ROS Navigation, Kafka
 - 📫 **Reach me:** shyamsundar4005@gmail.com
-- ⚡ **Fun fact:** I reduced robot path trajectory by 18% using A* in Gazebo before I built my first REST API
 
 
 ## Tech Stack
@@ -169,74 +168,6 @@ I love working on real-world projects, contributing to open-source, participatin
 </a>
 
 
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Scalable Notification Service</h3>
-      <div align="center">
-        <a href="https://github.com/shyam050/scalable-notification-service" target="_blank">
-          <img src="https://img.shields.io/badge/Code-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p>
-          <strong>Java · Spring Boot · Kafka · Redis · PostgreSQL · Docker</strong>
-        </p>
-        <p>
-          Event-driven microservice processing 10K+ events/minute with idempotency deduplication, 
-          distributed rate limiting, and Prometheus observability
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Cloud Sales Analytics</h3>
-      <div align="center">
-        <a href="https://github.com/shyam050/cloud-sales-analytics" target="_blank">
-          <img src="https://img.shields.io/badge/Code-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p>
-          <strong>AWS · Flask · Python · MySQL · Docker</strong>
-        </p>
-        <p>
-          Serverless sales analytics pipeline with S3 + CloudFront, Lambda + API Gateway, 
-          and EC2 Auto Scaling with VPC-isolated RDS
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">IPIS Train Data Simulator</h3>
-      <div align="center">
-        <p>
-          <strong>Spring Boot · Angular · MySQL · JWT · Electron</strong>
-        </p>
-        <p>
-          Real-time train data simulator syncing live telemetry every 60 seconds across 50+ 
-          concurrent LED display boards with multilingual support
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Autonomous Navigation System</h3>
-      <div align="center">
-        <a href="https://github.com/shyam050/autonomous-nav-ros" target="_blank">
-          <img src="https://img.shields.io/badge/Code-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p>
-          <strong>ROS Noetic · C++ · Python · Gazebo</strong>
-        </p>
-        <p>
-          2D SLAM pipeline with gmapping, LiDAR + IMU fusion, and A* path planning 
-          reducing trajectory length by 18%
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
 ## GitHub Stats
 
 <!--<p align="center">
@@ -253,25 +184,25 @@ I love working on real-world projects, contributing to open-source, participatin
 </p>-->
 
 
-## Coding Activity
+<!--## Coding Activity-->
 
 <!--START_SECTION:waka-->
 <!-- You can add WakaTime integration later -->
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam050&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+<!--<p align="center">-->
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam050&theme=tokyo-night&hide_border=true" alt="Activity Graph" />-->
+<!--</p>-->
 
 
 ## Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/shyam45" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Graphs%20%7C%20DP%20%7C%20Trees-0969DA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-964B00?style=for-the-badge" />
+  <!--<img src="https://img.shields.io/badge/Focus-Graphs%20%7C%20DP%20%7C%20Trees-0969DA?style=for-the-badge" />-->
+  <!--<img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-964B00?style=for-the-badge" />-->
 </p>
 
 
